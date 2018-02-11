@@ -1214,7 +1214,7 @@ $g_repositoryType = TL_REPOSITORY_TYPE_FS;
  * Put it out of reach via web or configure access denied.
  *
  **/
-$g_repositoryPath = '/opt/app-root/testlink/upload_area/';  /* unix example */
+$g_repositoryPath = '/opt/app-root/upload_area/';  /* unix example */
 
 /**
  * compression used within the repository
